@@ -6,7 +6,6 @@
 ## Contents
 
 - [Milan](#Milan)
-- [Another Section](#another-section)
 
 
 ## Milan
